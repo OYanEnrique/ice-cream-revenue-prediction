@@ -70,7 +70,7 @@ To run the analysis on your own machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/OYanEnrique/ice-cream-revenue-prediction.git](https://github.com/OYanEnrique/ice-cream-revenue-prediction.git)
+    git clone https://github.com/OYanEnrique/ice-cream-revenue-prediction.git
     cd ice-cream-revenue-prediction
     ```
 2.  **Install the required libraries:**
