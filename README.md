@@ -15,7 +15,7 @@ An interactive dashboard was created in Looker Studio to visualize the data and 
 
 **[Click here to view the interactive dashboard](https://lookerstudio.google.com/reporting/312a8405-a3f1-4d25-ba32-d7b3fb73eee7/page/WYKUF)**
 
-![Dashboard Screenshot](images/dashboard.jpg)
+![Dashboard Screenshot](dashboard.jpg)
 
 ## 📈 Analysis and Key Findings
 
@@ -41,7 +41,7 @@ To test the model, we can predict the revenue for a given temperature.
 
 The scatter plot below shows the data points and the fitted linear regression line, visually confirming the positive correlation.
 
-![Linear Regression Plot](images/linear_regression.png)
+![Linear Regression Plot](linear_regression.png)
 
 ## 💾 Dataset
 
